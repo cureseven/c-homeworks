@@ -1,0 +1,3 @@
+[v017ff@YBS13 ~]$ ./kadai0103x.out
+1 2
+[v017ff@YBS13 ~]$ 

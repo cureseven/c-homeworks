@@ -1,0 +1,9 @@
+[v017ff@YBS08 ~/kadai1102]$ ./kadai5-1a.out
+Input File:d.txt
+Output File:e.txt 
+[v017ff@YBS08 ~/kadai1102]$ cat d.txt
+2 4 3
+[v017ff@YBS08 ~/kadai1102]$ cat e.txt
+ ø∂—°ß3.000000
+…∏Ω‡ –∫π°ß0.577350
+[v017ff@YBS08 ~/kadai1102]$ 

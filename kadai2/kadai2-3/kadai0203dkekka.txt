@@ -1,0 +1,6 @@
+[v017ff@MDS223 ~/kadai1009]$ gcc kadai0203d.c -o kadai0203d.out -lm
+[v017ff@MDS223 ~/kadai1009]$ ./kadai0203d.out
+À°¿ô:2
+À°¿ô:4
+À°¿ô:3
+Ê¿¶Ñ¡á3.000000¡¢É¸½àÊÐº¹¡á0.816497

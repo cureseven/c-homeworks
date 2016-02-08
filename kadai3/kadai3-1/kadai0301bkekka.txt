@@ -1,0 +1,4 @@
+[v017ff@YAS72 ~/kadai1019]$ gcc kadai0301b.c -o kadai0301b.out
+[v017ff@YAS72 ~/kadai1019]$ ./kadai0301b.out
+文字列を入力してください。 （１２８文字未満）：asdf
+文字数：4
